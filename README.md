@@ -11,5 +11,5 @@ Este repositorio contendrá mis proyectos, trabajos destacados y mi progreso com
 * **[Nombre del Proyecto]** - Breve descripción del proyecto.
 
 ## 📫 Cómo contactarme
-* [Enlace a tu LinkedIn]
+* [LinkedIn](https://www.linkedin.com/in/juan-ayala-b89383114/)
 * [Enlace a tu correo electrónico]
