@@ -12,4 +12,4 @@ Este repositorio contendrá mis proyectos, trabajos destacados y mi progreso com
 
 ## 📫 Cómo contactarme
 * [LinkedIn](https://www.linkedin.com/in/juan-ayala-b89383114/)
-* [Enlace a tu correo electrónico]
+* [Correo electrónico](mailto:jayalach@gmail.com)
